@@ -73,7 +73,7 @@ h4 {
   min-height: 100vh;
   background: linear-gradient(to top,
       rgb(17, 117, 231, 0.5),
-      rgba(136, 0, 133, 0.6)),
+      rgba(16, 15, 16, 0.6)),
     url("./images/Banner1.jpg") center/cover no-repeat fixed;
   position: relative;
   z-index: 100;
@@ -859,7 +859,7 @@ h4 {
   height: 40rem;
   background: linear-gradient(to top,
       rgb(17, 117, 231, 0.5),
-      rgba(136, 0, 133, 0.6)),
+      rgba(16, 15, 16, 0.6)),
     url("./images/Banner2.jpg") top/cover no-repeat fixed;
 }
 
@@ -884,7 +884,7 @@ h4 {
 
 .offer__container h1 {
   letter-spacing: 1.5px;
-  font-size: 6rem;
+  font-size: 3rem;
 }
 
 .offer__container p {
